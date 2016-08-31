@@ -31,7 +31,7 @@ Rules
 - Only XHR (AJAX) requests to the server are allowed except for the initial app load
 - jQuery is fine
 - Frameworks and libraries such as Angular and React are banned
-- There's an ban exception for templating libraries such as [Handlebars] (http://tutorialzine.com/2015/01/learn-handlebars-in-10-minutes/)
+- Templating libraries are banned, with the exception of [Handlebars] (http://tutorialzine.com/2015/01/learn-handlebars-in-10-minutes/)
 - All page navigation must be done through JS routing (see Features section)
 - All DOM manipulation should take place on the client
 
